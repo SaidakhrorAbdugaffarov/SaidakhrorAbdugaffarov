@@ -1,104 +1,89 @@
-<h1 align="center">Saidakhror Abdugaffarov</h1>
-
-<h3 align="center">
-AI Engineer • Machine Learning Developer • Frontend Developer
-</h3>
+<h1 align="center">Hi 👋, I'm Saidakhor Abdugaffarov</h1>
+<h3 align="center">AI Engineer | Machine Learning Developer | Future AI Entrepreneur</h3>
 
 <p align="center">
-Building AI products, intelligent automation systems and modern web applications.
+Building AI products, Machine Learning systems and intelligent automation solutions.
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I am an AI Engineer and Frontend Developer focused on building practical AI solutions.
-
-My interests include:
-
-- Machine Learning
-- Generative AI
-- Large Language Models (LLMs)
-- Computer Vision
-- Intelligent Automation
-- AI Startups
+- 🎓 Artificial Intelligence Solutions and Applications Student
+- 🤖 Passionate about AI, Machine Learning and LLMs
+- 💡 Building AI startups and real-world intelligent systems
+- 🔬 Interested in Computer Vision, NLP and Generative AI
+- 🌍 Based in Uzbekistan
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Artificial Intelligence
+### Languages
 
-- PyTorch
-- TensorFlow
-- Keras
-- Scikit-Learn
-- OpenAI API
-- Claude API
-- Gemini API
-- Ollama
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Machine Learning
+### AI / ML
 
-- Random Forest
-- XGBoost
-- SVM
-- Linear Regression
-- Neural Networks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Frontend
+### LLM & AI Tools
 
-- React
-- Next.js
-- JavaScript
-- TypeScript
-- Tailwind CSS
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
 
 ### Backend
 
-- Python
-- FastAPI
-- Flask
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-### Databases
+### Database
 
-- PostgreSQL
-- MongoDB
-- SQLite
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
----
+### Cloud & DevOps
 
-## Machine Learning Metrics
-
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- ROC-AUC
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
 
 ---
 
-## Current Focus
+## 🔥 Featured Projects
 
-- Building AI-powered applications
-- Developing LLM systems
-- AI Startup Development
-- Production-ready ML solutions
+### 🧠 FutureMind AI
+AI-powered learning and productivity assistant.
 
----
+### 📊 Comparative Analysis of Machine Learning Models
+Research and implementation of ML algorithms with ROC-AUC evaluation.
 
-## Philosophy
-
-"Artificial Intelligence should solve real-world problems, not just demonstrate technology."
+### 🏆 AI Tender Evaluation System
+AI solution for analyzing tender proposals and selecting optimal suppliers.
 
 ---
 
-## Contact
+## 📈 GitHub Stats
 
-📧 Email: your_email@example.com
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SaidakhrorAbdugaffarov&show_icons=true&theme=tokyonight" />
+</p>
 
-💼 LinkedIn: your_linkedin
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaidakhrorAbdugaffarov&theme=tokyonight" />
+</p>
 
-🌐 Portfolio: your_website
+---
 
-🚀 Open to AI collaborations and startup opportunities.
+## 🌐 Connect With Me
+
+- LinkedIn: Your LinkedIn
+- Telegram: @your_username
+- Email: your@email.com
+
+---
+
+⭐ Always learning, building and shipping AI solutions.
