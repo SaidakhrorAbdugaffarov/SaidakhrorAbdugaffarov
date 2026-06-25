@@ -73,7 +73,7 @@ class Saidakhror:
 ### 🎯 Current Goal
 
 ```text
-Junior+ AI Engineer → Middle AI Engineer
+Junior + AI Engineer → Middle AI Engineer
 ```
 
 
@@ -127,34 +127,6 @@ PostgreSQL • MongoDB • SQLite • ChromaDB • FAISS
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🧠 ML Knowledge Roadmap
-
-```text
-Data Collection
-      ↓
-Data Preprocessing
-      ↓
-Model Training
-      ↓
-Evaluation & Metrics
-      ↓
-Deployment
-      ↓
-Monitoring
-```
-
----
-
 # 🚀 Featured Projects
 
 ### 🤖 AI Assistant with RAG
@@ -168,16 +140,6 @@ Comparison of ML models using metrics and visualizations.
 ### 🛒 AI E-commerce Recommender
 
 Recommendation system based on user behavior and ML.
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
-
-</p>
 
 ---
 
