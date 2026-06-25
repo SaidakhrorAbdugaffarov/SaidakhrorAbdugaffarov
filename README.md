@@ -1,118 +1,52 @@
-# <h1 align="center">👋 Hi, I'm Saidakhror Abdugaffarov</h1>
+# <p align="center">🤖 Saidakhror Abdugaffarov</p>
 
 <h3 align="center">
-🤖 AI Engineer • 🧠 Machine Learning Developer • 💻 Frontend Developer
+AI Engineer • Machine Learning Developer • Frontend Developer
 </h3>
 
 <p align="center">
-Building AI Products • LLM Applications • Intelligent Systems
+Building AI Products • Solving Real Problems • Creating Impact
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Frontend+Developer;Building+AI+Products;Generative+AI+Enthusiast;Future+AI+Founder" />
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Developer;Frontend+Developer;Building+AI+Products;Generative+AI+Developer" />
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 ```python
 class Saidakhror:
-    def __init__(self):
-        self.role = [
-            "AI Engineer",
-            "Frontend Developer",
-            "Machine Learning Developer"
-        ]
 
-        self.specialization = [
-            "Machine Learning",
-            "Deep Learning",
-            "LLMs",
-            "Generative AI",
-            "Computer Vision"
-        ]
+    role = [
+        "AI Engineer",
+        "Machine Learning Developer",
+        "Frontend Developer"
+    ]
 
-        self.location = "Uzbekistan"
+    interests = [
+        "LLMs",
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "AI Startups"
+    ]
 
-        self.mission = "Build AI systems that solve real-world problems"
+    mission = "Build AI systems that solve real problems"
 ```
 
 ---
 
-## 🧠 AI & Machine Learning
+## 🎯 Current Focus
 
-### Machine Learning Models
-
-✅ Random Forest
-
-✅ XGBoost
-
-✅ Support Vector Machine (SVM)
-
-✅ Linear Regression
-
-✅ Neural Networks
-
----
-
-### Evaluation Metrics
-
-📈 Accuracy
-
-📈 Precision
-
-📈 Recall
-
-📈 F1 Score
-
-📈 ROC-AUC
-
----
-
-## 🤖 Generative AI
-
-* OpenAI API
-* Claude API
-* Gemini API
-* Ollama
-* Prompt Engineering
-* LLM Applications
-
----
-
-## 💻 Frontend Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
-
-</p>
-
----
-
-## ⚙️ Backend & AI Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,git,github,vscode" />
-
-</p>
-
----
-
-## 🔥 Deep Learning Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-</p>
-
-### Additional Frameworks
-
-* Keras
-* Scikit-Learn
+- 🤖 Building LLM-powered applications
+- 🔍 RAG & Vector Search Systems
+- 📈 Scalable ML APIs
+- 🚀 AI Startup Building
+- 🧠 Multi-Agent Systems
 
 ---
 
@@ -143,42 +77,111 @@ Junior+ AI Engineer → Middle AI Engineer
 ```
 
 
-## 🧩 Current Focus
+# 🛠 Tech Stack
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+PyTorch • TensorFlow • Keras • Scikit-Learn • XGBoost
+
+### LLM & AI Tools
+
+OpenAI API • Gemini API • Claude API • Ollama • LangChain
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+</p>
+
+### Databases
+
+PostgreSQL • MongoDB • SQLite • ChromaDB • FAISS
+
+### DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🧠 ML Knowledge Roadmap
 
 ```text
-► Generative AI
-► LLM Applications
-► AI Startups
-► RAG Systems
-► Multi-Agent Systems
-► Production AI Systems
+Data Collection
+      ↓
+Data Preprocessing
+      ↓
+Model Training
+      ↓
+Evaluation & Metrics
+      ↓
+Deployment
+      ↓
+Monitoring
 ```
 
 ---
 
-## 📈 GitHub Analytics
+# 🚀 Featured Projects
+
+### 🤖 AI Assistant with RAG
+
+LLM-powered assistant with vector search and document understanding.
+
+### 📊 ML Model Comparison Dashboard
+
+Comparison of ML models using metrics and visualizations.
+
+### 🛒 AI E-commerce Recommender
+
+Recommendation system based on user behavior and ML.
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaidakhrorAbdugaffarov&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidakhrorAbdugaffarov&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaidakhrorAbdugaffarov&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -188,52 +191,22 @@ Junior+ AI Engineer → Middle AI Engineer
 
 ---
 
-## 🏆 GitHub Trophies
+# 💭 Philosophy
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SaidakhrorAbdugaffarov&theme=tokyonight&row=1&column=7" />
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 FutureMind AI
-
-AI-powered intelligent assistant platform.
-
-### 📊 Comparative Analysis of Machine Learning Models
-
-Comparison of ML algorithms using Accuracy, F1 and ROC-AUC.
-
-### 🤖 AI Tender Evaluation System
-
-AI system for evaluating tender proposals and selecting optimal suppliers.
-
----
-
-## 🌍 Connect With Me
-
-📧 Email: [your_email@example.com](mailto:your_email@example.com)
-
-💼 LinkedIn: your_linkedin
-
-📱 Telegram: @your_username
+> AI is not just the future.
+>
+> It's the present.
+>
+> Build. Learn. Impact.
 
 ---
 
 <p align="center">
 
-### 💡 Philosophy
+📍 Uzbekistan
 
-*"AI is not just the future. It's the present. Build. Learn. Impact."*
+💼 AI Engineer
 
-</p>
-
-<p align="center">
-
-⭐ If you like my projects, give them a star!
+🚀 Open for AI Projects & Startups
 
 </p>
